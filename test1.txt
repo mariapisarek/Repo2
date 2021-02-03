@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 1438-6D4A
-
- Directory of C:\Users\mpisarek\Desktop\MyProject
-
-03/02/2021  11:40    <DIR>          .
-03/02/2021  11:40    <DIR>          ..
-03/02/2021  11:40                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  177,628,672,000 bytes free
+change 1
